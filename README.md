@@ -5,11 +5,11 @@ The Team:
 - Keegan
 - Kevin
 
-#The Idea
+# The Idea
 
 Our AI project will create a short, nine to twelve page children's picture book based on a provided input. The general process of how it will work is as follows:
 
-#The Prompt
+# The Prompt
 
 The prompt will consist of 2 components:
 - The story prompt (Ex. "A frog goes to water park for a day")
@@ -30,7 +30,7 @@ Afterwards, the two responses could be fed into another function:
 
 Alternatively, just tell the AI to write a story based on the prompt with x amount of sentences and hope that works
 
-#The Images
+# The Images
 
 The AI will then generate a cartoon image for each sentence of the story
 - Call the image generation once for each sentence in the list of sentences
